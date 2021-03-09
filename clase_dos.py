@@ -165,17 +165,7 @@ def operaciones(num1, num2):
     di = round(num1 / num2, 2)
     return su, re, mu, di
 
+
 resultados = operaciones(4, 5)
 su, re, mu, di = resultados
 _, _, _, div = resultados
-
-
-
-
-
-
-
-
-
-
-
